@@ -1,0 +1,11 @@
+{
+  "email": "ccid.mtp.qa@gmail.com",
+  "gpwd": "ccidmtpqa@dc",
+  "applitoolpwd": "ccidmtpqa@DC1",
+  "appName": "MTP",
+  "url": "https://moleculartargets-dev.ccdi.cancer.gov",
+  "targets": [
+  "ENSG00000142192",
+  "ENSG00000171094"
+  ]
+}
